@@ -1,7 +1,7 @@
 # Relatório MAC0214
 
-Tempo em atividades: 27/100 horas
-* Contests de 5 horas: 25/55 horas
+Tempo em atividades: 32/100 horas
+* Contests de 5 horas: 30/55 horas
 * Contests de 2 horas: 2/20 horas
 * Upsolving: 0/20 horas
 * Revisão: 0/5 horas
@@ -65,7 +65,6 @@ O problema B era de simulação mas tinha muitos detalhes pra levar em conta. Fi
 
 O problema I é de matemática. Minha solução passou mas depois da prova descobri que tinha uma mais eficiente. Também fiz alguma submissões incorretas que eu poderia evitar.
 
-
 ### 24/09/22
 
 Contest: [Fase Zero da Maratona de Programação da SBC](https://www.beecrowd.com.br/judge/pt/challenges/contest/683)
@@ -100,3 +99,21 @@ O problema A é bem simples, apenas uma iteração do vetor de entrada é sufici
 O problema B foi inicialmente muito familiar para mim, pois já resolvi outros parecidos. Em resumo, ele pedia o ponto de encontro em uma reta que minimizasse o tempo máximo que uma das n pessoas demoraria para chegar nesse ponto. Cada pessoa tinha um tempo para se arrumar e uma posição inicial. Inicialmente, tentei fazer uma busca ternária mas as submissões deram errado. Tive uma ideia de chegar na resposta mais diretamente e também falhou no mesmo caso de teste. Pulei o problema e só mais tarde no contest eu descobri que o problema era a precisão da resposta. O C++ imprimia algumas respostas em notação científica e isso fazia com que a precisão fosse menor que o necessário. Achei estranho que essa foi a primeira vez que tive problema com isso.
 
 Considerei o problema C mais fácil que o B. Resolvi ele com um algoritmo guloso.
+
+## Outubro
+
+### 04/10
+
+Contest: [2018 ACM-ICPC, Universidad Nacional de Colombia Programming Contest](https://codeforces.com/gym/101845)
+Tempo: 5 horas
+Time: eu, Cássio e João Guilherme.
+
+O meu time original, formado por mim, pelo Antônio e pelo Thiago se desfez, pois Thiago não poderia participar da nacional em 2023. O Antônio foi para outro time e, como o Cássio e João Guilherme queriam participar da prova, decidi continuar no time para fazer a prova com eles. Decidi fazer esse contest com eles antes da prova para treinar.
+
+Resolvemos 8 dos 13 problemas da prova, eu fiz o A, o F e o M.
+
+Para o problema A, utilizei uma exponenciação de matriz. Tive dificuldade de modelar inicialmente com uma matriz pequena 5x5, então decidi fazer com uma 45x45 e mesmo assim.
+
+O problema F é de fluxo e a solução é bem direta. Utilizei o template de Dinic que estava no caderno.
+
+Já o problema M é de matemática, gastei mais tempo fazendo as contas no papel, pois o código é bem curto.
