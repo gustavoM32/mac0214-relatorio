@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 37/100 horas
+Tempo em atividades: 38,5/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 0/20 horas
+* Upsolving: 1,5/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -141,3 +141,15 @@ Fizemos 6 dos 14 problemas.
 ### 26/10
 Como o meu time se desfez e não irei fazer a nacional, decidi diminuir o tempo em contests de 5 horas e focar em contests de 2 horas e em resolver problemas individuais, de contests que eu já fiz.
 
+### 27/10
+
+Upsolving
+Tempo: 1,5 horas
+
+#### [1753B. Factorial Divisibility](https://codeforces.com/problemset/problem/1753/B)
+
+Um problema de teoria dos números. Tive a ideia de combinar fatoriais pequenos para formar maiores, ou seja, utilizei um algoritmo guloso para resolver.
+
+#### [1739D. Reset K Edges](https://codeforces.com/problemset/problem/1739/D)
+
+Usei busca binária na resposta e depth first search nesse problema. Tive a ideia e implementei rapidamente, mas acabei gastando muito tempo debugando. Também acho que o código ficou muito lento, apesar de ter passado.
