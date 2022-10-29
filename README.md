@@ -8,7 +8,7 @@ Tempo em atividades: 37/100 horas
 
 ## Agosto
 
-5/5 horas
+5 horas.
 
 ### 28/08/22
 
@@ -29,7 +29,7 @@ O K foi um problema muito legal de hanoi. Considerando que o hanoi é resolvido 
 
 ## Setembro
 
-22/41 horas
+22 horas.
 
 ### 04/09/22
 
@@ -102,6 +102,8 @@ Considerei o problema C mais fácil que o B. Resolvi ele com um algoritmo guloso
 
 ## Outubro
 
+10 horas.
+
 ### 04/10
 
 Contest: [2018 ACM-ICPC, Universidad Nacional de Colombia Programming Contest](https://codeforces.com/gym/101845)
@@ -135,3 +137,7 @@ O I era um problema muito fácil.
 Fiquei o resto da prova tentando o problema N, mas não consegui. Faltou pensar na estrutura certa pra resolver o problema, fiquei muito tempo tentando procurar a estrutura certa pra ele.
 
 Fizemos 6 dos 14 problemas.
+
+### 26/10
+Como o meu time se desfez e não irei fazer a nacional, decidi diminuir o tempo em contests de 5 horas e focar em contests de 2 horas e em resolver problemas individuais, de contests que eu já fiz.
+
