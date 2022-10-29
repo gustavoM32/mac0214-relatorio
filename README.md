@@ -1,7 +1,7 @@
 # Relatório MAC0214
 
-Tempo em atividades: 32/100 horas
-* Contests de 5 horas: 30/55 horas
+Tempo em atividades: 37/100 horas
+* Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
 * Upsolving: 0/20 horas
 * Revisão: 0/5 horas
@@ -117,3 +117,21 @@ Para o problema A, utilizei uma exponenciação de matriz. Tive dificuldade de m
 O problema F é de fluxo e a solução é bem direta. Utilizei o template de Dinic que estava no caderno.
 
 Já o problema M é de matemática, gastei mais tempo fazendo as contas no papel, pois o código é bem curto.
+
+### 08/10
+
+Contest: [Maratona de Programação da SBC 2022 - primeira fase](http://maratona.sbc.org.br/resultados22/reports/problems/maratona.pdf)
+Tempo: 5 horas
+Time: eu, Cássio e João Guilherme.
+
+Essa foi a prova oficial da primeira fase da Maratona de Programação da SBC. Fiz os problemas D, F e I.
+
+O problema D é parecido com um que já fiz antes, mas acabei errado a primeira solução, que só corrigi depois.
+
+O F eu fiquei muito tempo tentando pois tinha entendido errado, estava tentando resolver um problema mais complexo do que estava sendo pedido. O João Guilherme deu a sacada final no problema e eu a implementei.
+
+O I era um problema muito fácil.
+
+Fiquei o resto da prova tentando o problema N, mas não consegui. Faltou pensar na estrutura certa pra resolver o problema, fiquei muito tempo tentando procurar a estrutura certa pra ele.
+
+Fizemos 6 dos 14 problemas.
