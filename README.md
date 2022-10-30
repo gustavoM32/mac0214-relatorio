@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 38,5/100 horas
+Tempo em atividades: 41/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 1,5/20 horas
+* Upsolving: 4/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -102,7 +102,7 @@ Considerei o problema C mais fácil que o B. Resolvi ele com um algoritmo guloso
 
 ## Outubro
 
-10 horas.
+14 horas.
 
 ### 04/10
 
@@ -153,3 +153,16 @@ Um problema de teoria dos números. Tive a ideia de combinar fatoriais pequenos 
 #### [1739D. Reset K Edges](https://codeforces.com/problemset/problem/1739/D)
 
 Usei busca binária na resposta e depth first search nesse problema. Tive a ideia e implementei rapidamente, mas acabei gastando muito tempo debugando. Também acho que o código ficou muito lento, apesar de ter passado.
+
+### 29/10
+
+Upsolving
+Tempo: 2,5 horas
+
+#### [1674G. Remove Directed Edges](https://codeforces.com/problemset/problem/1674/G)
+
+O problema é de grafos. Fiquei pensando por muito tempo e cheguei na conclusão que daria de remover cada arco que ou é o único que sai de um vértice ou é o único que incide sobre um vértice. Depois disso seria possível formar caminhos no grafo restante independente de como a remoção dos outros arcos se daria. Depois de ler o início do editorial consegui resolver o problema.
+
+#### [1739C. Card Game](https://codeforces.com/problemset/problem/1739/C)
+
+O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estratégias que o jogadores podem escolher, é possível encontrar uma recorrência para chegar na resposta.
