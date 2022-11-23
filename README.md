@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 41/100 horas
+Tempo em atividades: 43/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 4/20 horas
+* Upsolving: 6/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -166,3 +166,17 @@ O problema é de grafos. Fiquei pensando por muito tempo e cheguei na conclusão
 #### [1739C. Card Game](https://codeforces.com/problemset/problem/1739/C)
 
 O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estratégias que o jogadores podem escolher, é possível encontrar uma recorrência para chegar na resposta.
+
+## Novembro
+
+2 horas.
+
+### 22/11
+
+Upsolving
+Tempo: 2 horas
+
+#### [1753C. Wish I Knew How to Sort](https://codeforces.com/problemset/problem/1753/C)
+
+Um problema de programação dinâmic1a e de esperança estatística. A modelagem da DP foi um pouco difícil, só consegui depois de ler o editorial.
+
