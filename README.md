@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 43/100 horas
+Tempo em atividades: 49/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 6/20 horas
+* Upsolving: 12/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -178,5 +178,31 @@ Tempo: 2 horas
 
 #### [1753C. Wish I Knew How to Sort](https://codeforces.com/problemset/problem/1753/C)
 
-Um problema de programação dinâmic1a e de esperança estatística. A modelagem da DP foi um pouco difícil, só consegui depois de ler o editorial.
+Um problema de programação dinâmica e de esperança estatística. A modelagem da DP foi um pouco difícil, só consegui depois de ler o editorial.
+
+### 23/11
+
+Upsolving
+Tempo: 6 horas
+
+#### [1716C. Robot in a Hallway](https://codeforces.com/problemset/problem/1716/C)
+
+Um problema bem complicado pra um C de um educational. Fiquei um bom tempo tentando e debugando, mas tive que ler o editorial pra resolver.
+
+#### [748B. Santa Claus and Keyboard Check](https://codeforces.com/contest/748/problem/B)
+
+Problema simples de strings, mas errei algumas vezes. Usei um map para registrar os pares de teclas trocadas, mas esqueci de dividir a contagem final por dois.
+
+#### [540B. School Marks](https://codeforces.com/contest/540/problem/B)
+
+Problema guloso simples sobre mediana, errei primeira submissão pois esqueci de limitar um dos loops.
+
+#### [630E. A rectangle](https://codeforces.com/contest/630/problem/E)
+
+O problema é relativamente simples e envolve matemática em um contexto de geometria. Tive problemas com o módulo de número negativos e não tinha percebido que a entrada que indica a configuração dos hexagonos.
+
+#### [614D. Polyline](https://codeforces.com/contest/617/problem/D)
+
+Um problema de geometria que precisa considerar diferentes casos, mas de simples implementação. Errei várias vezes por não considerar alguns casos.
+
 
