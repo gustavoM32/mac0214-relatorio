@@ -12,9 +12,9 @@ Tempo em atividades: 49/100 horas
 
 ### 28/08/22
 
-Contest: [2017-2018 ICPC Central Quarter Final of Northeastern European Regional Collegiate Programming Contest](https://codeforces.com/gym/102788)
-Tempo: 5 horas
-Time: eu, Antônio e Enrique
+* Contest: [2017-2018 ICPC Central Quarter Final of Northeastern European Regional Collegiate Programming Contest](https://codeforces.com/gym/102788)
+* Tempo: 5 horas
+* Time: eu, Antônio e Enrique
 
 Um contest com 12 problemas, conseguimos resolver 10 deles. Resolvi os problemas C, H, I, J, K:
 O C foi um problema bem interessante de gerar combinações de k a k entre n em ordem de modo que duas consecutivas sejam diferentes em apenas um número. Tive um pouco de dificuldade para otimizar a recursão nessa questão.
@@ -33,9 +33,9 @@ O K foi um problema muito legal de hanoi. Considerando que o hanoi é resolvido 
 
 ### 04/09/22
 
-Contest: [2017-2018 Northwestern European Regional Contest (NWERC 2017)](https://codeforces.com/gym/101623)
-Tempo: 5 horas
-Time: eu e Antônio.
+* Contest: [2017-2018 Northwestern European Regional Contest (NWERC 2017)](https://codeforces.com/gym/101623)
+* Tempo: 5 horas
+* Time: eu e Antônio.
 
 Contest com 11 problemas e resolvemos 6 deles. Resolvi os problemas D e K:
 O D consiste em ver de quantas maneiras corretas e incorretas é possível traduzir uma dada frase, a entrada também dá pares de palavras indicando se a tradução está correta e incorreta. A solução é bem ad-hoc.
@@ -44,9 +44,9 @@ O K pede para escolher distribuição dos jogadores nas chaves de um torneio de 
 
 ### 11/09/22
 
-Contest: [2021 ICPC Southeastern Europe Regional Contest](https://codeforces.com/gym/103438)
-Tempo: 5 horas
-Time: eu e Antônio.
+* Contest: [2021 ICPC Southeastern Europe Regional Contest](https://codeforces.com/gym/103438)
+* Tempo: 5 horas
+* Time: eu e Antônio.
 
 O contest tinha 14 problemas e resolvemos 7 deles. Resolvi o J e o N:
 O J dá uma string com os caracteres ABC e pergunta se é possível decompô-la em substrings AB, AC e BC. Se é, é necessário imprimir uma decomposição. A solução foi um algoritmo guloso, mas tive dificuldade para chegar na solução correta. Uma característica dos algoritmos gulosos é a dificuldade de se provar a sua corretude, ainda mais durante a prova. Acredito que, para evitar submissões incorretas para esse tipo de problema, eu deveria testar melhor o meu código.
@@ -55,9 +55,9 @@ O N também tem uma solução gulosa, mas bem mais simples. O problema fornece u
 
 ### 17/09/22
 
-Contest: Seletiva USP 2022
-Tempo: 5 horas
-Time: eu, Antônio e Thiago.
+* Contest: Seletiva USP 2022
+* Tempo: 5 horas
+* Time: eu, Antônio e Thiago.
 
 A prova ainda não está disponível em um site, também não tenho acesso às minhas soluções pois ela foi feita no BOCA, semelhante a maratona. Essa prova seleciona times para a participação na primeira fase da Maratona SBC de Programação. Nosso time ficou em primeiro lugar.
 
@@ -67,9 +67,9 @@ O problema I é de matemática. Minha solução passou mas depois da prova desco
 
 ### 24/09/22
 
-Contest: [Fase Zero da Maratona de Programação da SBC](https://www.beecrowd.com.br/judge/pt/challenges/contest/683)
-Tempo: 5 horas
-Time: eu, Antônio e Thiago.
+* Contest: [Fase Zero da Maratona de Programação da SBC](https://www.beecrowd.com.br/judge/pt/challenges/contest/683)
+* Tempo: 5 horas
+* Time: eu, Antônio e Thiago.
 
 Essa é a primeira edição da fase zero da maratona. A prova foi realizada na plataforma de problemas Beecrowd.
 
@@ -86,8 +86,8 @@ O problema K foi um que eu tive bastante dificuldade de entender o que estava se
 
 ### 25/09/22
 
-Contest: [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
-Tempo: 2 horas
+* Contest: [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
+* Tempo: 2 horas
 Individual.
 
 Primeiro contest individual que eu faço em muito tempo. Tentarei fazer mais nos próximos dias para evitar atrasar no cronograma.
@@ -106,9 +106,9 @@ Considerei o problema C mais fácil que o B. Resolvi ele com um algoritmo guloso
 
 ### 04/10
 
-Contest: [2018 ACM-ICPC, Universidad Nacional de Colombia Programming Contest](https://codeforces.com/gym/101845)
-Tempo: 5 horas
-Time: eu, Cássio e João Guilherme.
+* Contest: [2018 ACM-ICPC, Universidad Nacional de Colombia Programming Contest](https://codeforces.com/gym/101845)
+* Tempo: 5 horas
+* Time: eu, Cássio e João Guilherme.
 
 O meu time original, formado por mim, pelo Antônio e pelo Thiago se desfez, pois Thiago não poderia participar da nacional em 2023. O Antônio foi para outro time e, como o Cássio e João Guilherme queriam participar da prova, decidi continuar no time para fazer a prova com eles. Decidi fazer esse contest com eles antes da prova para treinar.
 
@@ -122,9 +122,9 @@ Já o problema M é de matemática, gastei mais tempo fazendo as contas no papel
 
 ### 08/10
 
-Contest: [Maratona de Programação da SBC 2022 - primeira fase](http://maratona.sbc.org.br/resultados22/reports/problems/maratona.pdf)
-Tempo: 5 horas
-Time: eu, Cássio e João Guilherme.
+* Contest: [Maratona de Programação da SBC 2022 - primeira fase](http://maratona.sbc.org.br/resultados22/reports/problems/maratona.pdf)
+* Tempo: 5 horas
+* Time: eu, Cássio e João Guilherme.
 
 Essa foi a prova oficial da primeira fase da Maratona de Programação da SBC. Fiz os problemas D, F e I.
 
@@ -139,12 +139,12 @@ Fiquei o resto da prova tentando o problema N, mas não consegui. Faltou pensar 
 Fizemos 6 dos 14 problemas.
 
 ### 26/10
-Como o meu time se desfez e não irei fazer a nacional, decidi diminuir o tempo em contests de 5 horas e focar em contests de 2 horas e em resolver problemas individuais, de contests que eu já fiz.
+Como o meu time se desfez e não irei fazer a nacional, decidi diminuir o tempo em contests de 5 horas e focar em contests de 2 horas e em resolver problemas individuais, focando naqueles de contests que eu já fiz.
 
 ### 27/10
 
-Upsolving
-Tempo: 1,5 horas
+* Upsolving
+* Tempo: 1,5 horas
 
 #### [1753B. Factorial Divisibility](https://codeforces.com/problemset/problem/1753/B)
 
@@ -156,8 +156,8 @@ Usei busca binária na resposta e depth first search nesse problema. Tive a idei
 
 ### 29/10
 
-Upsolving
-Tempo: 2,5 horas
+* Upsolving
+* Tempo: 2,5 horas
 
 #### [1674G. Remove Directed Edges](https://codeforces.com/problemset/problem/1674/G)
 
@@ -173,8 +173,8 @@ O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estrat
 
 ### 22/11
 
-Upsolving
-Tempo: 2 horas
+* Upsolving
+* Tempo: 2 horas
 
 #### [1753C. Wish I Knew How to Sort](https://codeforces.com/problemset/problem/1753/C)
 
@@ -182,8 +182,8 @@ Um problema de programação dinâmica e de esperança estatística. A modelagem
 
 ### 23/11
 
-Upsolving
-Tempo: 6 horas
+* Upsolving
+* Tempo: 6 horas
 
 #### [1716C. Robot in a Hallway](https://codeforces.com/problemset/problem/1716/C)
 
