@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 49/100 horas
+Tempo em atividades: 54/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 12/20 horas
+* Upsolving: 17/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -204,5 +204,26 @@ O problema é relativamente simples e envolve matemática em um contexto de geom
 #### [614D. Polyline](https://codeforces.com/contest/617/problem/D)
 
 Um problema de geometria que precisa considerar diferentes casos, mas de simples implementação. Errei várias vezes por não considerar alguns casos.
+
+### 26/11
+
+* Upsolving
+* Tempo: 5 horas
+
+#### [612D. The Union of k-Segments](https://codeforces.com/contest/612/problem/D)
+
+Problema de intervalos. Criei um vetor de pontos que indicam se um intervalo começa ou termina. Tive dificuldade no início pra modelar mas no fim o código ficou bem claro, sem bugs e passou na primeira tentativa.
+
+#### [761D. Dasha and Very Difficult Problem](https://codeforces.com/contest/761/problem/D)
+
+Usei um algoritmo guloso nesse problema, passei na primeira tentativa.
+
+#### [659F. Polycarp and Hay](https://codeforces.com/contest/659/problem/F)
+
+Foi muito interessante resolver esse problema. Usei o algoritmo union-find em uma matriz para construir uma outra que me ajudou a encontrar a solução. Também precisei fazer uma dfs pra imprimir a resposta final.
+
+#### [1092E. Minimal Diameter Forest](https://codeforces.com/contest/1092/problem/E)
+
+O problema envolve encontrar os diâmetros e os centros de árvores. Errei duas submissões por tentar deduzir o diâmetro final sem montar a árvore mas deu certo quando calculei ele depois de montá-la.
 
 
