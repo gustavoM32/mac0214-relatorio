@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 54/100 horas
+Tempo em atividades: 62,5/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 17/20 horas
+* Upsolving: 25,5/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -169,7 +169,7 @@ O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estrat
 
 ## Novembro
 
-2 horas.
+21,5 horas.
 
 ### 22/11
 
@@ -225,5 +225,31 @@ Foi muito interessante resolver esse problema. Usei o algoritmo union-find em um
 #### [1092E. Minimal Diameter Forest](https://codeforces.com/contest/1092/problem/E)
 
 O problema envolve encontrar os diâmetros e os centros de árvores. Errei duas submissões por tentar deduzir o diâmetro final sem montar a árvore mas deu certo quando calculei ele depois de montá-la.
+
+### 27/11
+
+* Upsolving
+* Tempo: 8,5 horas
+
+Resolvi fazer o upsolving de problemas de contests que fiz em equipe, pois até agora estava tentando problemas de contests regulares do Codeforces.
+
+### Pending
+
+#### [101669I. Tetris](https://codeforces.com/gym/101669)
+É um problema de implementação, um tipo que gosto bastante de tentar resolver. Eu tentei uma solução que testa tudo, mas ela tem dois problemas.
+
+O primeiro é que ela não funciona para o segundo caso de teste e pode ter a ver com o que o problema define como uma peça não encaixar no tabuleiro. Depende se eu devo rotacionar ela antes ou depois de ela aparecer no tabuleiro.
+
+O segundo é que ela demora demais pra alguns casos, deve ter algum jeito de otimizar que eu não vi ainda, mas não tenho certeza se a minha solução está indo ao caminho certo.
+
+Não consegui resolver o problema e não encontrei um editorial para ele.
+
+#### [G. Goguryeo and the Crown Prince](https://vjudge.net/contest/478186#problem/G)
+
+O problema é de probabilidades com uma certa circularidade (o cálculo de uma probabilidade depende de seu próprio valor). Tentei várias coisas para resolvê-lo mas ainda não consegui passar.
+
+Tentei usar programação dinâmica, fazer várias iterações de uma cadeia de Markov, incluindo exponenciação de matriz. Pela matriz que eu modelei ser muito grande, o problema não passou em tempo em várias submissões.
+
+A solução deve ser algo com menor complexidade do que eu tentei, mas não encontrei um editorial para esse problema.
 
 
