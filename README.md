@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 62,5/100 horas
+Tempo em atividades: 69/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 25,5/20 horas
+* Upsolving: 32/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -169,7 +169,7 @@ O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estrat
 
 ## Novembro
 
-21,5 horas.
+28 horas.
 
 ### 22/11
 
@@ -251,5 +251,14 @@ O problema é de probabilidades com uma certa circularidade (o cálculo de uma p
 Tentei usar programação dinâmica, fazer várias iterações de uma cadeia de Markov, incluindo exponenciação de matriz. Pela matriz que eu modelei ser muito grande, o problema não passou em tempo em várias submissões.
 
 A solução deve ser algo com menor complexidade do que eu tentei, mas não encontrei um editorial para esse problema.
+
+### 29/11
+
+* Upsolving
+* Tempo: 6,5 horas
+
+#### [102392K. Stranded Robot](https://codeforces.com/gym/102392/problem/K)
+
+Um problema de implementação que requer otimização de memória, pois envolve um espaço 3D de dimensões até 500x500x500. Fiz cada parte incrementalmente pra evitar bugs, mas o limite de memória foi passado no teste 17. Ainda tenho que otimizar o uso dela, mas acredito que a implementação esteja correta.
 
 
