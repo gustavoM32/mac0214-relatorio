@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 69/100 horas
+Tempo em atividades: 73,5/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 2/20 horas
-* Upsolving: 32/20 horas
+* Upsolving: 36,5/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -169,7 +169,7 @@ O problema envolve teoria dos jogos e combinatória. Depois de pensar nas estrat
 
 ## Novembro
 
-28 horas.
+32,5 horas.
 
 ### 22/11
 
@@ -252,7 +252,7 @@ Tentei usar programação dinâmica, fazer várias iterações de uma cadeia de 
 
 A solução deve ser algo com menor complexidade do que eu tentei, mas não encontrei um editorial para esse problema.
 
-### 29/11
+### 28/11
 
 * Upsolving
 * Tempo: 6,5 horas
@@ -260,5 +260,18 @@ A solução deve ser algo com menor complexidade do que eu tentei, mas não enco
 #### [102392K. Stranded Robot](https://codeforces.com/gym/102392/problem/K)
 
 Um problema de implementação que requer otimização de memória, pois envolve um espaço 3D de dimensões até 500x500x500. Fiz cada parte incrementalmente pra evitar bugs, mas o limite de memória foi passado no teste 17. Ainda tenho que otimizar o uso dela, mas acredito que a implementação esteja correta.
+
+### 30/11
+
+* Upsolving
+* Tempo: 4,5 horas
+
+#### [102392K. Stranded Robot](https://codeforces.com/gym/102392/problem/K)
+
+Li o editorial do problema e vi que a ideia é alcançar a complexidade O(N^2) após a leitura da entrada. Consegui otimizar a memória o suficiente para não ultrapassar o limite, mas agora o problema está no tempo de execução. O meu algoritmo ainda é cúbico.
+
+Esse é um problema extremamente difícil pra se fazer durante uma prova, porque envolve uma boa implementação sem bugs ao mesmo tempo que cobra uma otimização muito boa. Não é a toa que ninguém o passou na prova oficial. 
+
+Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativa.
 
 
