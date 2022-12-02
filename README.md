@@ -1,8 +1,8 @@
 # Relatório MAC0214
 
-Tempo em atividades: 73,5/100 horas
+Tempo em atividades: 77,5/100 horas
 * Contests de 5 horas: 35/55 horas
-* Contests de 2 horas: 2/20 horas
+* Contests de 2 horas: 6/20 horas
 * Upsolving: 36,5/20 horas
 * Revisão: 0/5 horas
 
@@ -274,4 +274,41 @@ Esse é um problema extremamente difícil pra se fazer durante uma prova, porque
 
 Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativa.
 
+## Dezembro
+
+4 horas.
+
+### 01/12
+
+* Contest: [Educational Codeforces Round 138 (Rated for Div. 2)](https://codeforces.com/contest/1749)
+* Tempo: 2 horas
+Individual.
+
+Tive um desempenho bom nesse contest considerando que faz tempo que eu não faço um. Resolvi 4 dos 6 problemas, não errei nenhuma submissão.
+
+O problema A precisou de somente uma desigualdade para resolver.
+
+O problema B possui uma solução gulosa, mas nem foi necessário implementar com um algoritmo guloso, bastou pegar o máximo de um vetor.
+
+O problema C foi um que gastei mais tempo que o necessário. A entrada é pequena, mas tentei otimizar a solução de qualquer jeito. Não consegui, no fim implementei sem otimizar e passou.
+
+O problema D usou um pouco de teoria dos números, achei legal resolvê-lo. Pareceu bem complicado no início, mas a solução é bem simples de entender.
+
+### 02/12
+
+* Contest: [Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
+* Tempo: 2 horas
+Individual.
+
+Quase tive um desempenho muito bom nesse contest. Resolvi 4 dos 7 problemas e consegui resolver o E 10 minutos após o fim. Cometi alguns pequenos erros, principalmente no problema C.
+
+O problema A é outro no qual é possível ignorar parte da entrada, a resposta é uma expressão simples.
+
+O problema B também é bem simples, basta construir uma resposta que serve pra qualquer valor de n.
+
+O problema C é relativamente simples, mas demorei pra chegar na melhor solução. Cometi erros por alterar o jeito de resolver mas esquecer de mudar todos os detalhes.
+
+O problema D tem um estilo único, pois a entrada é gerada aleatoriamente. A princípio eu não encontrei um jeito de usar isso, mas depois de pensar na solução força bruta que eu entendi. A solução é teoricamente quadrática (o que iria estourar o limite de tempo), mas a chance da entrada fazer o algoritmo lendo é muito pequena.
+
+O problema E usa programação dinâmica e eu demorei pra corrigir alguns bugs, então só resolvi deois do contest.
 
