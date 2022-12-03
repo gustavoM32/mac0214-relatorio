@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 77,5/100 horas
+Tempo em atividades: 80/100 horas
 * Contests de 5 horas: 35/55 horas
-* Contests de 2 horas: 6/20 horas
-* Upsolving: 36,5/20 horas
+* Contests de 2 horas: 8/20 horas
+* Upsolving: 37/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -276,7 +276,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-4 horas.
+6,5 horas.
 
 ### 01/12
 
@@ -311,4 +311,20 @@ O problema C é relativamente simples, mas demorei pra chegar na melhor soluçã
 O problema D tem um estilo único, pois a entrada é gerada aleatoriamente. A princípio eu não encontrei um jeito de usar isso, mas depois de pensar na solução força bruta que eu entendi. A solução é teoricamente quadrática (o que iria estourar o limite de tempo), mas a chance da entrada fazer o algoritmo lendo é muito pequena.
 
 O problema E usa programação dinâmica e eu demorei pra corrigir alguns bugs, então só resolvi deois do contest.
+
+### 03/12
+
+* Contest: [Educational Codeforces Round 135 (Rated for Div. 2)](https://codeforces.com/contest/1728)
+* Tempo: 2 horas de contest + 0,5 horas de upsolving do D
+Individual.
+
+Tive um desempenho ruim nesse contest. Comecei mal porque mandei o arquivo errado no primeiro problema, gastei um tempo tentando achar um bug que não existia. Depois fiquei um bom tempo no problema D e descobri que entendi o problema errado.
+
+O problema A foi somente emcontrar o índice do elemento com maior valor em um vetor.
+
+Para o problema B, foi necessário construir uma permutação específica.
+
+O problema C eu resolvi em etapas, mas o editoral traz uma solução mais direta. De qualquer forma, ambas tem complexidade O(n log n).
+
+O problema D consiste em definir o ganhador de um jogo. Durante a prova, eu perdi um detalhe muito importante: as letras são adicionados no início da string dos jogadores. Eu tentei resolver o problema no qual elas são adicionadas no final. Iniciei com um algoritmo guloso e depois troquei para programação dinâmica. Depois que eu percebi o erro de leitura, tentei adaptar o código e, por isso, esqueci alguns detalhes e não consegui enviar o problema antes do final da prova. Eu deveria ter lido o enunciado com mais atenção e, percebido o erro, deveria ter tentando iniciar a resolução do zero. Consegui resolver o problema depois da prova após adicionar dois métodos para cada jogador ao invés de fazer tudo em um só. Mesmo assim, a solução ficou mais complicada do que precisava.
 
