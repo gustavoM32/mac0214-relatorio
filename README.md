@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 80/100 horas
+Tempo em atividades: 86/100 horas
 * Contests de 5 horas: 35/55 horas
-* Contests de 2 horas: 8/20 horas
-* Upsolving: 37/20 horas
+* Contests de 2 horas: 10/20 horas
+* Upsolving: 41/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -276,7 +276,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-6,5 horas.
+12,5 horas.
 
 ### 01/12
 
@@ -320,11 +320,24 @@ Individual.
 
 Tive um desempenho ruim nesse contest. Comecei mal porque mandei o arquivo errado no primeiro problema, gastei um tempo tentando achar um bug que não existia. Depois fiquei um bom tempo no problema D e descobri que entendi o problema errado.
 
-O problema A foi somente emcontrar o índice do elemento com maior valor em um vetor.
+O problema A foi somente encontrar o índice do elemento com maior valor em um vetor.
 
 Para o problema B, foi necessário construir uma permutação específica.
 
 O problema C eu resolvi em etapas, mas o editoral traz uma solução mais direta. De qualquer forma, ambas tem complexidade O(n log n).
 
 O problema D consiste em definir o ganhador de um jogo. Durante a prova, eu perdi um detalhe muito importante: as letras são adicionados no início da string dos jogadores. Eu tentei resolver o problema no qual elas são adicionadas no final. Iniciei com um algoritmo guloso e depois troquei para programação dinâmica. Depois que eu percebi o erro de leitura, tentei adaptar o código e, por isso, esqueci alguns detalhes e não consegui enviar o problema antes do final da prova. Eu deveria ter lido o enunciado com mais atenção e, percebido o erro, deveria ter tentando iniciar a resolução do zero. Consegui resolver o problema depois da prova após adicionar dois métodos para cada jogador ao invés de fazer tudo em um só. Mesmo assim, a solução ficou mais complicada do que precisava.
+
+### 08/12
+* Contest: [Codeforces Round #836 (Div. 2)](https://codeforces.com/contest/1758)
+* Tempo: 2 horas de contest + 4 horas de upsolving
+Individual.
+
+Resolvi o problema A rapidamente, mas acabei perdendo muito tempo no B. Depois de um tempo eu pulei para o problema C.
+
+O problema C foi interessante, usei fatoração junto com um algoritmo guloso.
+
+O problema D eu fiquei tentando até o final da prova. Ele tem uma estrutura semelhante ao B: encontrar n números tal que a uma igualdade seja satisfeita, com a diferença de que os números precisam ser distintos. Li o editorial para resolver, a solução na verdade é bem mais simples do que eu pensava.
+
+O problema E eu não cheguei a ler durante a prova, mas quis tentar depois de ela terminar. É um problema que usa componentes conexas de um grafo, usei o algoritmo union find. Fiquei um bom tempo fazendo mas não cheguei na resposta certa. Depois que eu li o editorial, tive que adaptar bem pouco do meu código. No entanto, ainda não estava passando. No fim eu descobri que eu errei uma variável dentro do union.
 
