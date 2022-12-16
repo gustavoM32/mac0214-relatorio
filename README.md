@@ -1,8 +1,8 @@
 # Relatório MAC0214
 
-Tempo em atividades: 98/100 horas
+Tempo em atividades: 100/100 horas
 * Contests de 5 horas: 35/55 horas
-* Contests de 2 horas: 12/20 horas
+* Contests de 2 horas: 14/20 horas
 * Upsolving: 51/20 horas
 * Revisão: 0/5 horas
 
@@ -274,7 +274,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-24,5 horas.
+26,5 horas.
 
 ### 01/12
 
@@ -368,4 +368,12 @@ Voltei a tentar esse problema, dessa vez seguindo a estratégia descrita no edit
 
 Esse é um problema de programação dinâmica em grafos. Fiquei um tempo no problema, porém não consegui passar nos casos de teste. Depois de uns dias eu tentei novamente e revisei o código que eu fiz. Passou nos casos de teste, mas passou do limite de tempo. A ideia seria transformar de uma PD recursiva para uma iterativa, mas ainda não consegui fazer isso corretamente.
 
+### 16/12
+* Contest: [Educational Codeforces Round 140 (Rated for Div. 2)](https://codeforces.com/contest/1767)
+* Tempo: 2 horas de contest
 
+Meu desempenho nesse contest foi médio. Eu iria melhor se tivesse resolvido também o problema D, que mais pessoas resolveram. O problema C estava mais difícil que o D e eu consegui resolver ele.
+
+Resolvi 3 dos 6 problemas do contest. O problema A é de geometria básica. O problema B foi resolvido com ordenação e um algoritmo guloso. Já o problema C eu demorei um pouco para descobrir que usa programação dinâmica, tive um pouco de dificuldade para modelar corretamente, mas consegui passar perto do fim do contest.
+
+Apesar de ter lido o D, não consegui resolver a tempo.
