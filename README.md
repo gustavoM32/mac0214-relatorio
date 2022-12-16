@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 86/100 horas
+Tempo em atividades: 89/100 horas
 * Contests de 5 horas: 35/55 horas
-* Contests de 2 horas: 10/20 horas
-* Upsolving: 41/20 horas
+* Contests de 2 horas: 12/20 horas
+* Upsolving: 42/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -276,7 +276,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-12,5 horas.
+15,5 horas.
 
 ### 01/12
 
@@ -339,5 +339,19 @@ O problema C foi interessante, usei fatoração junto com um algoritmo guloso.
 
 O problema D eu fiquei tentando até o final da prova. Ele tem uma estrutura semelhante ao B: encontrar n números tal que a uma igualdade seja satisfeita, com a diferença de que os números precisam ser distintos. Li o editorial para resolver, a solução na verdade é bem mais simples do que eu pensava.
 
-O problema E eu não cheguei a ler durante a prova, mas quis tentar depois de ela terminar. É um problema que usa componentes conexas de um grafo, usei o algoritmo union find. Fiquei um bom tempo fazendo mas não cheguei na resposta certa. Depois que eu li o editorial, tive que adaptar bem pouco do meu código. No entanto, ainda não estava passando. No fim eu descobri que eu errei uma variável dentro do union.
+O problema E eu não cheguei a ler durante a prova, mas quis tentar depois de ela terminar. É um problema que usa componentes conexas de um grafo, usei o algoritmo union find. Fiquei um bom tempo fazendo, mas não cheguei na resposta certa. Depois que eu li o editorial, tive que adaptar bem pouco do meu código. No entanto, ainda não estava passando. No fim eu descobri que eu errei uma variável no método union.
+
+### 13/12
+* Contest: [Educational Codeforces Round 139 (Rated for Div. 2)](https://codeforces.com/contest/1766)
+* Tempo: 2 horas de contest + 1 hora de upsolving
+Individual.
+
+Resolvi 4 dos 6 problemas da prova.
+
+Os três primeiros problemas foram bem simples de resolver.
+
+O problema D envolveu fatoração. Eu fiz uma solução ineficiente no início por falta de atenção aos limites do problema. Mas depois eu fiz um crivo para fazer uma fatoração mais rápida e o problema passou.
+
+Fiquei o restante do contest no problema E, mas a solução não funcionou para o caso 16. Continuei tentando por um tempo depois de acabar, mas ainda não consegui resolver. O problema ainda não tem editorial.
+
 
