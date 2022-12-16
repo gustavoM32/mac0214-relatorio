@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 89/100 horas
+Tempo em atividades: 92/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 12/20 horas
-* Upsolving: 42/20 horas
+* Upsolving: 45/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -276,7 +276,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-15,5 horas.
+18,5 horas.
 
 ### 01/12
 
@@ -353,5 +353,12 @@ Os três primeiros problemas foram bem simples de resolver.
 O problema D envolveu fatoração. Eu fiz uma solução ineficiente no início por falta de atenção aos limites do problema. Mas depois eu fiz um crivo para fazer uma fatoração mais rápida e o problema passou.
 
 Fiquei o restante do contest no problema E, mas a solução não funcionou para o caso 16. Continuei tentando por um tempo depois de acabar, mas ainda não consegui resolver. O problema ainda não tem editorial.
+
+* Upsolving
+* Tempo: 3 horas
+
+#### [102392K. Stranded Robot](https://codeforces.com/gym/102392/problem/K)
+
+Voltei a tentar esse problema, dessa vez seguindo a estratégia descrita no editorial. Ainda tive problema com o limite de memória, mas depois de resolvê-lo consegui finalmente resolver o problema.
 
 
