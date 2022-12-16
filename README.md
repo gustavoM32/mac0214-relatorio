@@ -1,9 +1,9 @@
 # Relatório MAC0214
 
-Tempo em atividades: 92/100 horas
+Tempo em atividades: 98/100 horas
 * Contests de 5 horas: 35/55 horas
 * Contests de 2 horas: 12/20 horas
-* Upsolving: 45/20 horas
+* Upsolving: 51/20 horas
 * Revisão: 0/5 horas
 
 ## Agosto
@@ -233,8 +233,6 @@ O problema envolve encontrar os diâmetros e os centros de árvores. Errei duas 
 
 Resolvi fazer o upsolving de problemas de contests que fiz em equipe, pois até agora estava tentando problemas de contests regulares do Codeforces.
 
-### Pending
-
 #### [101669I. Tetris](https://codeforces.com/gym/101669)
 É um problema de implementação, um tipo que gosto bastante de tentar resolver. Eu tentei uma solução que testa tudo, mas ela tem dois problemas.
 
@@ -276,7 +274,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 ## Dezembro
 
-18,5 horas.
+24,5 horas.
 
 ### 01/12
 
@@ -360,5 +358,14 @@ Fiquei o restante do contest no problema E, mas a solução não funcionou para 
 #### [102392K. Stranded Robot](https://codeforces.com/gym/102392/problem/K)
 
 Voltei a tentar esse problema, dessa vez seguindo a estratégia descrita no editorial. Ainda tive problema com o limite de memória, mas depois de resolvê-lo consegui finalmente resolver o problema.
+
+### 15/12
+
+* Upsolving
+* Tempo: 6 horas
+
+#### [855C. Helga Hufflepuff's Cup](https://codeforces.com/contest/855/problem/C)
+
+Esse é um problema de programação dinâmica em grafos. Fiquei um tempo no problema, porém não consegui passar nos casos de teste. Depois de uns dias eu tentei novamente e revisei o código que eu fiz. Passou nos casos de teste, mas passou do limite de tempo. A ideia seria transformar de uma PD recursiva para uma iterativa, mas ainda não consegui fazer isso corretamente.
 
 
