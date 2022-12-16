@@ -88,7 +88,7 @@ O problema K foi um que eu tive bastante dificuldade de entender o que estava se
 
 * Contest: [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
 * Tempo: 2 horas
-Individual.
+* Individual.
 
 Primeiro contest individual que eu faço em muito tempo. Tentarei fazer mais nos próximos dias para evitar atrasar no cronograma.
 
@@ -280,7 +280,7 @@ Tentarei limitar a complexidade cúbica à leitura do input na próxima tentativ
 
 * Contest: [Educational Codeforces Round 138 (Rated for Div. 2)](https://codeforces.com/contest/1749)
 * Tempo: 2 horas
-Individual.
+* Individual.
 
 Tive um desempenho bom nesse contest considerando que faz tempo que eu não faço um. Resolvi 4 dos 6 problemas, não errei nenhuma submissão.
 
@@ -296,7 +296,7 @@ O problema D usou um pouco de teoria dos números, achei legal resolvê-lo. Pare
 
 * Contest: [Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
 * Tempo: 2 horas
-Individual.
+* Individual.
 
 Quase tive um desempenho muito bom nesse contest. Resolvi 4 dos 7 problemas e consegui resolver o E 10 minutos após o fim. Cometi alguns pequenos erros, principalmente no problema C.
 
@@ -314,7 +314,7 @@ O problema E usa programação dinâmica e eu demorei pra corrigir alguns bugs, 
 
 * Contest: [Educational Codeforces Round 135 (Rated for Div. 2)](https://codeforces.com/contest/1728)
 * Tempo: 2 horas de contest + 0,5 horas de upsolving do D
-Individual.
+* Individual.
 
 Tive um desempenho ruim nesse contest. Comecei mal porque mandei o arquivo errado no primeiro problema, gastei um tempo tentando achar um bug que não existia. Depois fiquei um bom tempo no problema D e descobri que entendi o problema errado.
 
@@ -329,7 +329,7 @@ O problema D consiste em definir o ganhador de um jogo. Durante a prova, eu perd
 ### 08/12
 * Contest: [Codeforces Round #836 (Div. 2)](https://codeforces.com/contest/1758)
 * Tempo: 2 horas de contest + 4 horas de upsolving
-Individual.
+* Individual.
 
 Resolvi o problema A rapidamente, mas acabei perdendo muito tempo no B. Depois de um tempo eu pulei para o problema C.
 
@@ -342,7 +342,7 @@ O problema E eu não cheguei a ler durante a prova, mas quis tentar depois de el
 ### 13/12
 * Contest: [Educational Codeforces Round 139 (Rated for Div. 2)](https://codeforces.com/contest/1766)
 * Tempo: 2 horas de contest + 1 hora de upsolving
-Individual.
+* Individual.
 
 Resolvi 4 dos 6 problemas da prova.
 
